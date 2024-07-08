@@ -1,0 +1,17 @@
+local_model_directory filter=lfs diff=lfs merge=lfs -text
+test.py filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+sentence_correct.py filter=lfs diff=lfs merge=lfs -text
+spelling-correction.pptx filter=lfs diff=lfs merge=lfs -text
+ans.txt filter=lfs diff=lfs merge=lfs -text
+local_tokenizer_directory filter=lfs diff=lfs merge=lfs -text
+process.py filter=lfs diff=lfs merge=lfs -text
+result.txt filter=lfs diff=lfs merge=lfs -text
+SRILM.zip filter=lfs diff=lfs merge=lfs -text
+testdata.txt filter=lfs diff=lfs merge=lfs -text
+vocab.txt filter=lfs diff=lfs merge=lfs -text
+eval.py filter=lfs diff=lfs merge=lfs -text
+import_model.py filter=lfs diff=lfs merge=lfs -text
+initial_code filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+.txt filter=lfs diff=lfs merge=lfs -text
